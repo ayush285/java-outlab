@@ -1,0 +1,5 @@
+1.    https://www.geeksforgeeks.org/socket-programming-in-java/
+2.    https://www.geeksforgeeks.org/introducing-threads-socket-programming-java/
+3.    https://stackoverflow.com/questions/4355046/java-insert-multiple-rows-into-mysql-with-preparedstatement
+4.    http://www.javapractices.com/topic/TopicAction.do?Id=247
+5.    https://coderanch.com/t/448327/java/Opening-URLConnection-threads
